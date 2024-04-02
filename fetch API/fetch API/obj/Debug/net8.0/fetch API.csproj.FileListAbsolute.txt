@@ -1,0 +1,17 @@
+C:\Users\marcus.nilsson\Desktop\.NET\Visual Studio\fetch API\fetch API\bin\Debug\net8.0\fetch API.exe
+C:\Users\marcus.nilsson\Desktop\.NET\Visual Studio\fetch API\fetch API\bin\Debug\net8.0\fetch API.deps.json
+C:\Users\marcus.nilsson\Desktop\.NET\Visual Studio\fetch API\fetch API\bin\Debug\net8.0\fetch API.runtimeconfig.json
+C:\Users\marcus.nilsson\Desktop\.NET\Visual Studio\fetch API\fetch API\bin\Debug\net8.0\fetch API.dll
+C:\Users\marcus.nilsson\Desktop\.NET\Visual Studio\fetch API\fetch API\bin\Debug\net8.0\fetch API.pdb
+C:\Users\marcus.nilsson\Desktop\.NET\Visual Studio\fetch API\fetch API\obj\Debug\net8.0\fetch API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcus.nilsson\Desktop\.NET\Visual Studio\fetch API\fetch API\obj\Debug\net8.0\fetch API.AssemblyInfoInputs.cache
+C:\Users\marcus.nilsson\Desktop\.NET\Visual Studio\fetch API\fetch API\obj\Debug\net8.0\fetch API.AssemblyInfo.cs
+C:\Users\marcus.nilsson\Desktop\.NET\Visual Studio\fetch API\fetch API\obj\Debug\net8.0\fetch API.csproj.CoreCompileInputs.cache
+C:\Users\marcus.nilsson\Desktop\.NET\Visual Studio\fetch API\fetch API\obj\Debug\net8.0\fetch API.dll
+C:\Users\marcus.nilsson\Desktop\.NET\Visual Studio\fetch API\fetch API\obj\Debug\net8.0\refint\fetch API.dll
+C:\Users\marcus.nilsson\Desktop\.NET\Visual Studio\fetch API\fetch API\obj\Debug\net8.0\fetch API.pdb
+C:\Users\marcus.nilsson\Desktop\.NET\Visual Studio\fetch API\fetch API\obj\Debug\net8.0\fetch API.genruntimeconfig.cache
+C:\Users\marcus.nilsson\Desktop\.NET\Visual Studio\fetch API\fetch API\obj\Debug\net8.0\ref\fetch API.dll
+C:\Users\marcus.nilsson\Desktop\.NET\Visual Studio\fetch API\fetch API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\marcus.nilsson\Desktop\.NET\Visual Studio\fetch API\fetch API\obj\Debug\net8.0\fetch API.csproj.AssemblyReference.cache
+C:\Users\marcus.nilsson\Desktop\.NET\Visual Studio\fetch API\fetch API\obj\Debug\net8.0\fetch API.csproj.CopyComplete
