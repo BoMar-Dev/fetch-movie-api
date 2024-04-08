@@ -44,5 +44,7 @@ Please note that this project relies on a free version of the OMDB API, which ma
 ## Getting Started
 
 To get started with the project, clone the repository and open it in your preferred C#/.NET development environment.
+Get your API key [here](https://developer.imdb.com/documentation/api-documentation/getting-access/).
+
 
 
