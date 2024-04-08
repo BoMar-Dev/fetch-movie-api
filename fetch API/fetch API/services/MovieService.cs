@@ -17,7 +17,7 @@ namespace fetch_API.services
         public async Task<object?> GetMovieByTitleAsync(string title) 
         {
             var httpClient = new HttpClient();
-            var movieResponse = await httpClient.GetAsync($"https://www.omdbapi.com/?t={title}&apikey=9fc43190");
+            var movieResponse = await httpClient.GetAsync($"https://www.omdbapi.com/?t={title}&apikey=YourImdbApiKey");
 
 
             string json = await movieResponse.Content.ReadAsStringAsync();
